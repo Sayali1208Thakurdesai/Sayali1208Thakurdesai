@@ -50,15 +50,6 @@ I enjoy ensuring product quality by thinking from both **user and system perspec
 
 ---
 
-## 🚀 What I Work On
-- Manual Testing (Functional, Regression, Exploratory)
-- Automation Testing using **Java, Selenium, Playwright**
-- API Testing with **Postman**
-- Test Case Design, Bug Reporting & Edge Case Analysis
-- Testing **AI-based applications**
-
----
-
 ## 💡 Philosophy
 > “Good testing is not just about finding bugs,  
 > it’s about preventing them and improving user experience.”
