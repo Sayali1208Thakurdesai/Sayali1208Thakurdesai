@@ -57,6 +57,6 @@ I enjoy ensuring product quality by thinking from both **user and system perspec
 ---
 
 ## 📫 Let’s Connect
-- Open to QA collaboration & remote opportunities  
-- Lifelong learner 🌱
+- 💼 LinkedIn:(https://www.linkedin.com/in/sayali-thakurdesai/)
+- 📧 Email: sayali [dot] vtdesai [at] gmail [dot] com
 
