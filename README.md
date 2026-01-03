@@ -6,6 +6,19 @@ I am a **QA Engineer** with strong experience in **Manual Testing** and hands-on
 I enjoy ensuring product quality by thinking from both **user and system perspectives** and love exploring how testing evolves with **AI-powered applications**.
 
 ---
+## 🔍 What I Do
+- Manual Testing (Functional, Regression, Exploratory)
+- Automation Testing using **Java, Selenium, TestNG, Maven**
+- API Testing with **Postman & REST APIs**
+- Test Case Design, Bug Reporting & Edge Case Analysis
+- Testing **AI-based applications** (AI travel planners, ad optimization tools)
+
+## 🚀 Currently Learning
+- Playwright Automation(javascript and Typescript)
+- API Automation
+- Performance testing
+- Devops applications(AWS, Azure)
+
 
 ## 🛠️ Skills & Tools  
 
